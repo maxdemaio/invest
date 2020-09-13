@@ -4,7 +4,7 @@
 Overview
 ------
 
-Invest is a python application to help strategize a stock portfolio. Also, cliff-notes of [Stock Investing like Warren Buffet](https://www.youtube.com/playlist?list=PLECECA66C0CE68B1E) have been provided to supplement learning.
+Invest is a python application to help strategize a stock portfolio. Also, cliff-notes of [Stock Investing like Warren Buffet](https://www.youtube.com/playlist?list=PLECECA66C0CE68B1E) have been added.
 
 For requirements, this application uses Jupyter Notebooks, Pandas, and Yahoo-Finance.
 
