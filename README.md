@@ -11,7 +11,7 @@ For requirements, this application uses Jupyter Notebooks, Pandas, and Yahoo-Fin
 Methodology
 ------
 
-Essentially we should buy stocks in much the same way we would evaluate buying a business for acquisition in its entirety. We want the following factors when we are investing in a business:
+According to Warren Buffett, we should buy stocks in much the same way we would evaluate buying a business for acquisition in its entirety. We want the following factors when we are investing in a business:
 1. It is a business that we can understand
 2. The company has favorable long-term prospects
 3. It is operated by honest and competent people
