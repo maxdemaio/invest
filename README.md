@@ -1,5 +1,5 @@
 # invest
-**Stock and company analyses for investing.**
+**Strategize investing with stock/company analysis.**
 
 Overview
 ------
